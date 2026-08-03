@@ -1,0 +1,12 @@
+.env*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+generated/
+paper/
+results/*
+!results/summary.json

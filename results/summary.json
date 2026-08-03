@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "paperRun": {
+    "comparison": {
+      "protocol": {"domains": ["jobs", "deployments", "tickets", "builds", "shipments"], "rowCounts": [32, 80, 200, 500], "casesPerCell": 25, "cases": 500, "targetDataRatio": 0.2, "flatFixedPositions": ["head", "middle", "tail"]},
+      "summary": {"firewallFixedStable": 1.0, "firewallProtectedRetention": 1.0, "firewallControlRetention": 1.0, "firewallEvidenceRetention": 1.0, "firewallMeanKeptRatio": 0.22485636808799636, "firewallBudgetExceededRate": 0.938, "firewallMeanBudgetOvershootBytes": 37.558, "firewallP95BudgetOvershootBytes": 71, "flatProtectedRetention": 0.0, "flatControlRetention": 0.826, "flatEvidenceRetention": 1.0, "flatMeanKeptRatio": 0.22722600647713173, "flatMeanRatioAbsoluteError": 0.0034185862055295946, "flatMaxRatioAbsoluteError": 0.009670588084528364, "reserveHeadEvidenceRetention": 0.2, "reserveHeadMeanKeptRatio": 0.22485636808799636}
+    },
+    "stress": {"seed": "0x544f4b5a", "trials": 2000, "formats": {"json": 363, "jsonl": 334, "csv": 343, "log": 319, "prose": 322, "unknown": 319}, "methods": {"json": {"structural": 363, "passthrough": 0, "semantic": 0}, "jsonl": {"structural": 334, "passthrough": 0, "semantic": 0}, "csv": {"structural": 343, "passthrough": 0, "semantic": 0}, "log": {"structural": 319, "passthrough": 0, "semantic": 0}, "prose": {"structural": 0, "passthrough": 322, "semantic": 0}, "unknown": {"structural": 0, "passthrough": 319, "semantic": 0}}, "violations": 0, "replayTrials": 250, "replayMismatches": 0},
+    "localLatencyMs": [{"actualDataBytes": 1065, "firewallP50Ms": 0.2397, "firewallP95Ms": 0.3989, "directP50Ms": 0.1952, "directP95Ms": 0.2937}, {"actualDataBytes": 4147, "firewallP50Ms": 0.737, "firewallP95Ms": 1.1074, "directP50Ms": 0.678, "directP95Ms": 1.0096}, {"actualDataBytes": 16446, "firewallP50Ms": 2.6833, "firewallP95Ms": 4.2177, "directP50Ms": 2.6387, "directP95Ms": 3.9887}, {"actualDataBytes": 65589, "firewallP50Ms": 10.9627, "firewallP95Ms": 13.6942, "directP50Ms": 11.2511, "directP95Ms": 13.9675}, {"actualDataBytes": 262156, "firewallP50Ms": 53.831, "firewallP95Ms": 70.7153, "directP50Ms": 53.7259, "directP95Ms": 72.5549}]
+  }
+}
