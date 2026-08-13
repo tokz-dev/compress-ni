@@ -95,7 +95,7 @@ hosted service; it cannot reproduce the proprietary local implementation.
 
 ## License
 
-`reproduce.py`, `analyze.py`, and `tests/` are MIT licensed. The paper, figures,
-and result data are licensed under [Creative Commons Attribution 4.0
+`reproduce.py`, `analyze.py`, and `tests/` are licensed under the Apache License
+2.0. The paper, figures, and result data are licensed under [Creative Commons Attribution 4.0
 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 See [LICENSE](LICENSE).
