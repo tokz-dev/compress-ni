@@ -20,6 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-All other material in this repository, including `paper.pdf`, files under
-`figures/`, and files under `results/`, is Copyright (c) 2026 Tokz. All rights
-reserved. No license is granted for that material.
+The research paper `paper.pdf`, files under `figures/`, and files under
+`results/` are licensed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Third-party material remains subject to its respective license. This notice
+does not relicense that material.
