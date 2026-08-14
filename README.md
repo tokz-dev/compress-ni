@@ -1,7 +1,7 @@
 # COMPRESS-NI
 
-Companion repository for *COMPRESS-NI: Fixed-Segment Non-Interference for
-Trust-Domain Context Compression*.
+Companion repository for *Fixed-Path Isolation for Structural Tool-Output
+Compression*.
 
 [Read the paper](paper.pdf).
 
